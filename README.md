@@ -130,7 +130,6 @@ Consolidates NSW's public fuel-price data into a clean, deduplicated pipeline, t
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatj1919@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatj1919)
 
-<img src="https://komarev.com/ghpvc/?username=akshatj1919&style=flat-square&color=7AA2F7" alt="Profile views" />
 
 <i>Building things end-to-end, one release at a time 🚀</i>
 
