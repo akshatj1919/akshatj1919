@@ -1,16 +1,137 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**akshatj1919/akshatj1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Akshat Jain
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Founding+Engineer+at+ParkingOath;Building+Grounded+Voice+AI+and+Marketplace+Platforms;React+Native+-+Firebase+-+AWS+-+OpenAI;Master+of+Computer+Science+%40+University+of+Sydney" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatj1919)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatj1919@gmail.com)
+![Location](https://img.shields.io/badge/Sydney,_Australia-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+### 👋 About Me
+
+- 🔭 **Founding Engineer** at a two-sided marketplace startup — I own the mobile apps, backend, integrations and releases end to end
+- 🎙️ Deep in applied AI right now: building a grounded voice assistant that pairs deterministic ranking with LLM reasoning
+- 🎓 Master of Computer Science candidate @ The University of Sydney — Sydney Scholars India Scholarship recipient
+- 🌱 Background spans mobile (React Native/Expo), backend (.NET, Firebase, Node), cloud (AWS) and data engineering
+- 💬 Happy to talk shipping product fast, voice AI, or startup engineering — feel free to reach out
+
+### 🚧 Currently Building
+
+> Architecting and shipping a cross-platform, two-sided marketplace — React Native + Expo apps for iOS/Android, a Firebase backend, and integrations with Stripe, Google Maps, Didit and HubSpot.
+>
+> Current focus: a **grounded voice AI assistant** — Whisper for transcription, deterministic ranking over live marketplace data, then GPT for the final response — so answers stay accurate and explainable instead of just sounding right.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,react,nodejs,dotnet,firebase,aws,postgres,mysql,docker,git,github,jest" alt="Skills" />
+</p>
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-007ACC?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat-square)
+![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Mobile & Frontend**
+![React Native](https://img.shields.io/badge/React_Native-0EA5E9?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-0EA5E9?style=flat-square&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white)
+*+ Expo Router, NativeWind, WPF*
+
+**Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase Functions](https://img.shields.io/badge/Firebase_Functions-7C3AED?style=flat-square&logo=firebase&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-7C3AED?style=flat-square&logo=dotnet&logoColor=white)
+*+ EF Core, REST APIs, WebSockets, SignalR*
+
+**AI, Data & Analytics**
+![OpenAI](https://img.shields.io/badge/OpenAI-F97316?style=flat-square&logo=openai&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-F97316?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F97316?style=flat-square&logo=scikitlearn&logoColor=white)
+*+ Whisper, GPT, RAG, prompt engineering, NumPy, MQTT, Streamlit, Power BI*
+
+**Cloud & Databases**
+![Firebase](https://img.shields.io/badge/Firebase-1E3A8A?style=flat-square&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1E3A8A?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A8A?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
+*+ SQL Server, Oracle, SQLite, Firestore, Cloud Messaging*
+
+**DevOps & Integrations**
+![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-475569?style=flat-square&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-475569?style=flat-square&logo=stripe&logoColor=white)
+*+ EAS Build, Jest, Detox, Crashlytics, Google Maps, Didit, HubSpot*
+
+---
+
+### 📌 Featured Projects
+
+**[📦 Inventory Management REST API](https://github.com/akshatj1919/inventory_management_RESTful)**
+Layered ASP.NET Core API (controller/service/repository) with EF Core migrations, request validation, Swagger docs and Docker-based deployment.
+`ASP.NET Core` `EF Core` `MySQL` `Docker` `Swagger`
+
+**🎙️ Real-Time Agentic Phishing Detection**
+Android app + backend flagging suspicious activity across SMS, calls, WhatsApp, Gmail and Zoom in real time — on-device capture, LLM-based reasoning, instant WebSocket/FCM alerts.
+`Android` `Python` `Faster-Whisper` `LLMs` `WebSockets` `FCM`
+
+**📄 Event-Driven PDF RAG Pipeline**
+Secure, event-driven document ingestion and retrieval platform on AWS — S3 → SNS → SQS → EC2 workers behind a load balancer, with async chunking, embeddings and semantic search.
+`AWS` `EC2` `S3` `SNS/SQS` `RDS PostgreSQL` `Python`
+
+**⛽ FuelCheck NSW Data Pipeline**
+Consolidates NSW's public fuel-price data into a clean, deduplicated pipeline, then visualises pricing and station locations on an interactive map.
+`Python` `pandas` `MQTT` `Streamlit` `Folium`
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=akshatj1919&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatj1919&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akshatj1919&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 🎓 Education
+
+- **Master of Computer Science** — The University of Sydney *(Jul 2024 – Jul 2026)*
+- **B.Tech, Computer Science and Engineering** — SRM Institute of Science and Technology · CGPA 9.18/10.0 *(Jul 2019 – Jun 2023)*
+
+### 🏆 Achievements
+
+- 🌟 **Sydney Scholars India Scholarship** — one of ten international students selected by the University of Sydney for academic merit and leadership
+- 🥉 **Dean's List** — ranked 3rd in class, 2nd year of B.Tech
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatj1919)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatj1919@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatj1919)
+
+<img src="https://komarev.com/ghpvc/?username=akshatj1919&style=flat-square&color=7AA2F7" alt="Profile views" />
+
+<i>Building things end-to-end, one release at a time 🚀</i>
+
+</div>
