@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Founding+Engineer+at+ParkingOath;Building+Grounded+Voice+AI+and+Marketplace+Platforms;React+Native+-+Firebase+-+AWS+-+OpenAI;Master+of+Computer+Science+%40+University+of+Sydney" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatjain19.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatj1919)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatj1919@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatjain19.vercel.app/)
 ![Location](https://img.shields.io/badge/Sydney,_Australia-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
@@ -127,10 +127,10 @@ Consolidates NSW's public fuel-price data into a clean, deduplicated pipeline, t
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatjain19.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatj1919)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatj1919@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatj1919)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatjain19.vercel.app/)
 
 <i>Building things end-to-end, one release at a time 🚀</i>
 
