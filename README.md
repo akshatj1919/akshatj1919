@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-- 🔭 **Founding Engineer** at a two-sided marketplace startup — I own the mobile apps, backend, integrations and releases end to end
+- 🔭 **Product Engineer(Full-Stack + AI/Data)** at a two-sided marketplace startup — I own the mobile apps, backend, integrations and releases end to end
 - 🎙️ Deep in applied AI right now: building a grounded voice assistant that pairs deterministic ranking with LLM reasoning
 - 🎓 Master of Computer Science candidate @ The University of Sydney — Sydney Scholars India Scholarship recipient
 - 🌱 Background spans mobile (React Native/Expo), backend (.NET, Firebase, Node), cloud (AWS) and data engineering
