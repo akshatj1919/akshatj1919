@@ -132,6 +132,4 @@ Consolidates NSW's public fuel-price data into a clean, deduplicated pipeline, t
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatj1919)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatjain19.vercel.app/)
 
-<i>Building things end-to-end, one release at a time 🚀</i>
-
 </div>
