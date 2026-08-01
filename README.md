@@ -2,7 +2,7 @@
 
 # Akshat Jain
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Product+Engineer(Full-Stack + AI/Data)+at+ParkingOath;Building+Grounded+Voice+AI+and+Marketplace+Platforms;React+Native+-+Firebase+-+AWS+-+OpenAI;Master+of+Computer+Science+%40+University+of+Sydney" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Product+Engineer+at+ParkingOath;Building+Grounded+Voice+AI+and+Marketplace+Platforms;React+Native+-+Firebase+-+AWS+-+OpenAI;Master+of+Computer+Science+%40+University+of+Sydney" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatj1919)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatj1919@gmail.com)
