@@ -15,10 +15,10 @@
 
 ### 👋 About Me
 
-- 🔭 **Product Engineer(Full-Stack + AI/Data)** at a two-sided marketplace startup — I own the mobile apps, backend, integrations and releases end to end
-- 🎙️ Deep in applied AI right now: building a grounded voice assistant that pairs deterministic ranking with LLM reasoning
+- 🔭 **Product Engineer (Full-Stack + AI/Data)** at **ParkingOath** — a two-sided parking marketplace — owning the mobile apps, backend, integrations and releases end to end
+- 🎙️ Deep in applied AI right now: built a grounded voice assistant that pairs deterministic ranking with LLM reasoning (Whisper → search/ranking → GPT → TTS)
 - 🎓 Master of Computer Science candidate @ The University of Sydney — Sydney Scholars India Scholarship recipient
-- 🌱 Background spans mobile (React Native/Expo), backend (.NET, Firebase, Node), cloud (AWS) and data engineering
+- 🌱 Background spans mobile (React Native/Expo), backend (.NET, FastAPI, Firebase, Node), cloud (AWS, Terraform) and data engineering — previously built enterprise reporting and data systems for the liquor industry at RISICINDIA
 - 💬 Happy to talk shipping product fast, voice AI, or startup engineering — feel free to reach out
 
 ### 🚧 Currently Building
@@ -29,10 +29,23 @@
 
 ---
 
+### 💼 Experience
+
+**ParkingOath Pty Ltd** · *Product Engineer (Full-Stack + AI/Data)* — Sep 2025 – Present
+Own the two-sided marketplace end to end: React Native/Expo apps, Firebase backend, Stripe/Google Maps/Didit/HubSpot integrations, and a grounded OpenAI voice assistant secured with Firestore rules, signed webhooks, masked comms and rate limiting.
+
+**RISICINDIA Pvt Ltd** · *Software Developer Consultant* — Jul 2023 – Jul 2024
+Designed and delivered an end-to-end liquor-industry application (C#, .NET, SQL, Power BI) for inventory and enterprise reporting — improved reporting workflows by ~55% and helped win three new clients.
+
+**RISICINDIA Pvt Ltd** · *Software Developer Trainee* — Dec 2022 – Jun 2023
+Built and tested C#/.NET features, resolved defects, and delivered Power BI dashboards, data-validation workflows and release documentation.
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,react,nodejs,dotnet,firebase,aws,postgres,mysql,docker,git,github,jest" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,react,nextjs,nodejs,dotnet,fastapi,firebase,aws,terraform,postgres,mysql,docker,git,github,jest" alt="Skills" />
 </p>
 
 **Languages**
@@ -47,12 +60,14 @@
 ![React Native](https://img.shields.io/badge/React_Native-0EA5E9?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-0EA5E9?style=flat-square&logo=expo&logoColor=white)
 ![React](https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0EA5E9?style=flat-square&logo=nextdotjs&logoColor=white)
 *+ Expo Router, NativeWind, WPF*
 
 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase Functions](https://img.shields.io/badge/Firebase_Functions-7C3AED?style=flat-square&logo=firebase&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-7C3AED?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
 *+ EF Core, REST APIs, WebSockets, SignalR*
 
 **AI, Data & Analytics**
@@ -71,8 +86,9 @@
 **DevOps & Integrations**
 ![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-475569?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-475569?style=flat-square&logo=terraform&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-475569?style=flat-square&logo=stripe&logoColor=white)
-*+ EAS Build, Jest, Detox, Crashlytics, Google Maps, Didit, HubSpot*
+*+ CI/CD, EAS Build, Jest, Detox, Crashlytics, Google Maps, Didit, HubSpot*
 
 ---
 
@@ -82,13 +98,17 @@
 Layered ASP.NET Core API (controller/service/repository) with EF Core migrations, request validation, Swagger docs and Docker-based deployment.
 `ASP.NET Core` `EF Core` `MySQL` `Docker` `Swagger`
 
-**🎙️ Real-Time Agentic Phishing Detection**
-Android app + backend flagging suspicious activity across SMS, calls, WhatsApp, Gmail and Zoom in real time — on-device capture, LLM-based reasoning, instant WebSocket/FCM alerts.
-`Android` `Python` `Faster-Whisper` `LLMs` `WebSockets` `FCM`
+**🎙️ PhishAI — Real-Time Agentic Phishing Detection**
+Multi-channel AI-assisted phishing detection across SMS, calls, WhatsApp, Gmail and Zoom — on-device capture, Faster-Whisper transcription, and rule-based, reputation and contextual LLM signals combined into explainable, real-time alerts via FCM and WebSockets.
+`Android` `Python` `FastAPI` `Faster-Whisper` `LLMs` `WebSockets` `FCM`
+
+**🏠 AI Real Estate Assistant**
+Full-stack AI property-intelligence platform with hybrid semantic + keyword retrieval, LLM-powered property discovery and citation-aware document analysis, plus mortgage, valuation, ROI and portfolio-analysis workflows behind auth, RBAC, rate limiting and audit logging.
+`Next.js` `FastAPI` `PostgreSQL` `RAG`
 
 **📄 Event-Driven PDF RAG Pipeline**
-Secure, event-driven document ingestion and retrieval platform on AWS — S3 → SNS → SQS → EC2 workers behind a load balancer, with async chunking, embeddings and semantic search.
-`AWS` `EC2` `S3` `SNS/SQS` `RDS PostgreSQL` `Python`
+Secure, event-driven document platform on AWS — S3 → SNS → SQS → EC2 workers behind a load balancer, with async chunking, TF-IDF/embedding retrieval, idempotent processing, dead-letter queues and Terraform-provisioned infra.
+`AWS` `Terraform` `EC2` `S3` `SNS/SQS` `RDS PostgreSQL` `Python`
 
 **⛽ FuelCheck NSW Data Pipeline**
 Consolidates NSW's public fuel-price data into a clean, deduplicated pipeline, then visualises pricing and station locations on an interactive map.
