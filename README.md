@@ -94,11 +94,7 @@ Built and tested C#/.NET features, resolved defects, and delivered Power BI dash
 
 ### 📌 Featured Projects
 
-**[📦 Inventory Management REST API](https://github.com/akshatj1919/inventory_management_RESTful)**
-Layered ASP.NET Core API (controller/service/repository) with EF Core migrations, request validation, Swagger docs and Docker-based deployment.
-`ASP.NET Core` `EF Core` `MySQL` `Docker` `Swagger`
-
-**🎙️ PhishAI — Real-Time Agentic Phishing Detection**
+**[🎙️ PhishAI — Real-Time Agentic Phishing Detection](https://github.com/akshatj1919/phishai-portfolio-showcase)**
 Multi-channel AI-assisted phishing detection across SMS, calls, WhatsApp, Gmail and Zoom — on-device capture, Faster-Whisper transcription, and rule-based, reputation and contextual LLM signals combined into explainable, real-time alerts via FCM and WebSockets.
 `Android` `Python` `FastAPI` `Faster-Whisper` `LLMs` `WebSockets` `FCM`
 
