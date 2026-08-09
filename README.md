@@ -98,15 +98,15 @@ Built and tested C#/.NET features, resolved defects, and delivered Power BI dash
 Multi-channel AI-assisted phishing detection across SMS, calls, WhatsApp, Gmail and Zoom — on-device capture, Faster-Whisper transcription, and rule-based, reputation and contextual LLM signals combined into explainable, real-time alerts via FCM and WebSockets.
 `Android` `Python` `FastAPI` `Faster-Whisper` `LLMs` `WebSockets` `FCM`
 
-**🏠 AI Real Estate Assistant**
+**[🏠 AI Real Estate Assistant](https://github.com/akshatj1919/Ai-real-estate-assistant)**
 Full-stack AI property-intelligence platform with hybrid semantic + keyword retrieval, LLM-powered property discovery and citation-aware document analysis, plus mortgage, valuation, ROI and portfolio-analysis workflows behind auth, RBAC, rate limiting and audit logging.
 `Next.js` `FastAPI` `PostgreSQL` `RAG`
 
-**📄 Event-Driven PDF RAG Pipeline**
+**[📄 Event-Driven PDF RAG Pipeline](https://github.com/akshatj1919/Event-Driven-PDF-Retrieval-and-Chunking-Comparison-on-AWS)**
 Secure, event-driven document platform on AWS — S3 → SNS → SQS → EC2 workers behind a load balancer, with async chunking, TF-IDF/embedding retrieval, idempotent processing, dead-letter queues and Terraform-provisioned infra.
 `AWS` `Terraform` `EC2` `S3` `SNS/SQS` `RDS PostgreSQL` `Python`
 
-**⛽ FuelCheck NSW Data Pipeline**
+**[⛽ FuelCheck NSW Data Pipeline](https://github.com/akshatj1919/Fuelcheck-NSW-Data-engineering-pipeline)**
 Consolidates NSW's public fuel-price data into a clean, deduplicated pipeline, then visualises pricing and station locations on an interactive map.
 `Python` `pandas` `MQTT` `Streamlit` `Folium`
 
